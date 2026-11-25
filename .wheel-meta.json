@@ -1,0 +1,22 @@
+{
+  "wheel_id": 966,
+  "structure": "umbrella",
+  "slug": "northshorekitchenrenovation-109",
+  "project": "kitchen-renovation-north-shore-diy-vs-professional-42987b09917b",
+  "parent_t1_ref": "northshorekitchenrenovation-154",
+  "node_role": "feeder",
+  "money_target": "northshorekitchenrenovation.com.au",
+  "primary_kw": "kitchen renovation north shore diy vs professional",
+  "intended_url": "http://kitchen-renovation-north-shore-diy-vs-professional-42987b09917b.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "d9dc2d193afa7fe6",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/northshorekitchenrenovation-154/",
+      "anchor": "Kitchen Renovation North Shore Maintenance: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
